@@ -1,0 +1,11 @@
+/Make/Make/bin
+/Make/Make/obj
+/@wiki
+/Make/.vs
+/Make/packages
+/Make/Make/Scripts/.vs
+/Make/Make/Scripts/Debug
+/Make/Make/Scripts/Scripts.sdf
+/Make/Make/Scripts/Scripts.vcxproj.user
+/Make/Make.UnitTest/bin
+/Make/Make.UnitTest/obj
