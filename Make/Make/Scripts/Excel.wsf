@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package>
+<job>
+	<?job error="false" debug="false"?>
+	<!-- Excel -->
+	<reference guid="00020813-0000-0000-C000-000000000046"></reference>
+    <runtime>
+        <!-- 説明テキスト -->
+        <description>
+        </description>
+
+        <!-- ジョブの使用例 -->
+        <example>
+        </example>
+    </runtime>
+	<script language="JScript" src="lib\compare.js" />
+	<script language="JScript" src="CommandLine.js" />
+	<script language="JScript" src="UserData.js" />
+	<script language="JScript" src="Excel.js" />
+	<script language="JScript" src="main.js" />
+</job>
+</package>
